@@ -53,10 +53,7 @@ x-ui 可与 v2-ui 并存，数据不互通，不影响对方的运行
 x-ui v2-ui
 ```
 
-# Telegram
-群组：https://t.me/sprov_blog
 
-频道：https://t.me/sprov_channel
 
 ## Stargazers over time
 
